@@ -1,6 +1,3 @@
 #   Endless Runner Game
 
-<video width="600" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1iNzY1oUwUASIOjCrSuvcsSh4sEG3lA85" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/7a085915-a170-4740-8a21-cfba4339ec4c
