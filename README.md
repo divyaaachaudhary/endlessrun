@@ -1,4 +1,4 @@
 #   Endless Runner Game
-### This is a fun endless runner game made with Godot. The player can run, jump, and collect coins while avoiding obstacles. The path is endless and keeps generating new parts, so the game never stops. Coins and obstacles appear randomly, making each run different. Try to collect as many points as you can without hitting anything!
+This is a 3D endless runner game developed using the Godot engine, featuring a procedurally generated path filled with dynamic hurdles and collectible coins. I implemented procedural generation logic to continuously spawn obstacles and coins, ensuring varied gameplay with every run. The game increases in difficulty over time, with faster movement and more complex obstacle patterns. I handled all core systems including player controls, obstacle spawning, collision detection, and difficulty scaling. This project highlights my skills in 3D game development, procedural content generation, and gameplay balancing using GDScript.
 
 https://github.com/user-attachments/assets/7a085915-a170-4740-8a21-cfba4339ec4c
